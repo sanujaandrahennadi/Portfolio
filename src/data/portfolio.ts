@@ -120,17 +120,6 @@ export const skillsPage = {
       ],
     },
   ] as SkillCategory[],
-  github: {
-    repos: 5,
-    stars: 0,
-    followers: 0,
-    topLanguages: [
-      { name: 'JavaScript', count: 1 },
-      { name: 'Python', count: 1 },
-      { name: 'Kotlin', count: 1 },
-      { name: 'TypeScript', count: 1 },
-    ],
-  },
   learning: {
     heading: 'Always Learning, Always Growing',
     text: 'Pursuing dual degrees in Data Science and Physical Science while building real-world projects in data warehousing, full-stack development, and mobile applications. Eager to keep learning and contribute to innovative, data-driven solutions.',
